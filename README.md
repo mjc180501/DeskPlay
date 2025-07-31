@@ -20,6 +20,7 @@ YT Video: https://youtu.be/979JuL8oQ3E
 Wiring Guide:
 
 <img width="820" height="463" alt="image" src="https://github.com/user-attachments/assets/58aad308-9be9-4704-a702-9c02f0142618" />
+
 This wiring guide is for a 2.8" display, but the headers are in the same order on the larger screen we used. Wire it as shown and it will be fine. Do note there will be more pins below on the larger version but you can ignore those. 
 
 
