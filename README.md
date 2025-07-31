@@ -17,6 +17,11 @@ To make your own, keep in mind that any form factor works! You just need to moun
 
 YT Video: https://youtu.be/979JuL8oQ3E
 
+Wiring Guide:
+
+<img width="1024" height="481" alt="image" src="https://github.com/user-attachments/assets/6f74d3a8-2a11-452e-ba7c-8d6bc32c5f03" />
+
+
 BOM:
 
 | Part                      | Description                        |
