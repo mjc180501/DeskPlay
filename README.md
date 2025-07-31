@@ -15,6 +15,7 @@ This is a cool effect for a desk display (and where the name came from), but als
 
 To make your own, keep in mind that any form factor works! You just need to mount an LCD screen and keep a flat, transparent object at some angle to it (depending on where you want to position it) and bam, holographic display. 
 
+YT Video: https://youtu.be/979JuL8oQ3E
 
 BOM:
 
